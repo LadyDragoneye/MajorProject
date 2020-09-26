@@ -2,4 +2,12 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-prompt(Please input your age: )
+var age = prompt("Please input your age: ");
+
+if (age <= 5){
+  document.write("Entry is free!");
+}
+
+if (age > )
+
+
