@@ -31,5 +31,12 @@ p{
   background-color: #201b1e;
   color: #eeeff8;
   padding: 5px;
-  width: 2em;
+  width: 20em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
 }
