@@ -2,10 +2,18 @@
 
 body {
   font-family: helvetica, arial, sans-serif;
-  margin: 2em;
+  margin: 0px;
+  padding: 0;
 }
 
 h1 {
   font-style: italic;
-  color: #373fff;
+  color: #eeeff8;
+  background-color: #201b1e;
+  text-align: center;
+  vertical-align: text-bottom;
+  margin: 0;
+  padding: 0;
+  height: 4em;
+  
 }
