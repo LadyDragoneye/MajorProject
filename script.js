@@ -2,4 +2,4 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-console.log("hi");
+prompt(Please input your age: )
