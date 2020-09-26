@@ -3,18 +3,19 @@
 
 // prints "hi" in the browser's dev tools console
 var age = prompt("Please input your age: ");
-var cost = 0;
+var cost;
 
 if (age < 5){
-  cost = 0;
+  document.getElementById("cost").innerHTML = "Entry is free!";
 }
 
 if (age >= 5 && age <=12 ){
-  cost = 5;
+  document.getElementById("cost").innerHTML = "Ticket is $5.00";
 }
 
 if (age > 12){
-  cost = 9;
+  document.getElementById("cost").innerHTML = "Ticket is $9.00";
 }
+
 
 
