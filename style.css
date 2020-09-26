@@ -4,16 +4,32 @@ body {
   font-family: helvetica, arial, sans-serif;
   margin: 0px;
   padding: 0;
+  background-color: #B4241C;
+  color: #FFFBFB;
 }
 
 h1 {
   font-style: italic;
+  font-size: 40px;
   color: #eeeff8;
   background-color: #201b1e;
   text-align: center;
-  vertical-align: text-bottom;
   margin: 0;
+  line-height: 100px;
   padding: 0;
-  height: 4em;
-  
+  height: 3em;
+}
+
+h2{
+  text-align: center;
+  font-size: 30px;
+}
+
+p{
+  text-align: center;
+  font-size: 20px;
+  background-color: #201b1e;
+  color: #eeeff8;
+  padding: 5px;
+  width: 2em;
 }
